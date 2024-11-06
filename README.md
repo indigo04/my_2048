@@ -1,5 +1,7 @@
 #2048 Game
 
+Implemented task "2048" from Mate academy
+
 Technologies: HTML5/CSS/SASS/JS
 
 Preview: https://indigo04.github.io/my_2048/
