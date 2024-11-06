@@ -8,6 +8,8 @@ To run the project locally:
 
 1. Fork the repo
 
-2. Run "git clone" + "npm install"
+2. Clone the repo from github
+
+3. Run "npm install" in your terminal
 
 Run "npm start" to start the game!
