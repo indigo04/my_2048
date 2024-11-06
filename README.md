@@ -2,4 +2,4 @@
 
 HTML5/CSS/SASS/JS
 
-Preview: 
+Preview: https://indigo04.github.io/my_2048/
