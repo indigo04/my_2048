@@ -7,19 +7,13 @@ SASS</br>
 JS</br>
 <h3>Preview: https://indigo04.github.io/my_2048/</h3>
 <h2>Installation:</h1>
+<details>
 <h3>Clone the repository:</h3>
----
-<p>git clone https://github.com/username/my_2048.git</p>
----
+<kbd>git clone https://github.com/<username>/my_2048.git</kbd>
 <h3>Navigate to the project directory:</h3>
----
-<p>cd my_2048</p>
----
+<kbd>cd my_2048</kbd>
 <h3>Install the dependencies:</h3>
----
-<p>run npm install</p>
----
+<kbd>npm install</kbd>
 <h3>Start the development server:</h3>
----
-<p>npm start</p>
----
+<kbd>npm start</kbd>
+</details>
