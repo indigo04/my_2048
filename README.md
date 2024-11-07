@@ -1,5 +1,5 @@
 <h1>#2048 Game</h1>
-<h2>Implemented task "2048" from Mate academy</h2>
+<h3>Implemented task "2048" from Mate academy</h3>
 <h1>Technologies:</h1> 
 HTML5</br>
 CSS</br>
