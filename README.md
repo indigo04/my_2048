@@ -6,12 +6,14 @@ Technologies: HTML5/CSS/SASS/JS
 
 Preview: https://indigo04.github.io/my_2048/
 
-To run the project locally: 
+Installation
+Clone the repository:
 
-1. Fork the repo
+git clone https://github.com/<username>/my_2048.git
+Navigate to the project directory:
 
-2. Clone the repo from github
+cd my_2048
+Run npm install
+Start the development server:
 
-3. Run "npm install" in your terminal
-
-Run "npm start" to start the game!
+npm start
