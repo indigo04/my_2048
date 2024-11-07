@@ -10,7 +10,7 @@ Preview: https://indigo04.github.io/my_2048/
 
 Clone the repository:
 
-git clone 'https://github.com/<username>/my_2048.git'
+git clone <>https://github.com/<username>/my_2048.git</>
 
 Navigate to the project directory:
 
