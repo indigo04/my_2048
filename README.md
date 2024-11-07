@@ -6,7 +6,7 @@ Technologies: HTML5/CSS/SASS/JS
 
 Preview: https://indigo04.github.io/my_2048/
 
-Installation
+<strong>Installation</strong>
 
 Clone the repository:
 
