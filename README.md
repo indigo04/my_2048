@@ -1,4 +1,4 @@
-<strong>#2048 Game</strong>
+<h1>#2048 Game</h1>
 
 Implemented task "2048" from Mate academy
 
