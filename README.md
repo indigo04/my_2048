@@ -8,7 +8,7 @@ JS</br>
 <h3>Preview: https://indigo04.github.io/my_2048/</h3>
 <h2>Installation:</h1>
 <h3>Clone the repository:</h3>
-<p>{git clone https://github.com/username/my_2048.git}</p>
+<p>git clone 'https://github.com/username/my_2048.git'</p>
 <h3>Navigate to the project directory:</h3>
 <p>cd my_2048</p>
 <h3>Install the dependencies:</h3>
