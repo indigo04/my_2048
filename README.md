@@ -10,8 +10,8 @@ JS</br>
 <h3>Clone the repository:</h3>
 <p>git clone https://github.com/<username>/my_2048.git</p>
 <h3>Navigate to the project directory:</h3>
-<h4>cd my_2048</h3>
+<p>cd my_2048</p>
 <h3>Install the dependencies:</h3>
-<h4>run npm install</h3>
+<p>run npm install</p>
 <h3>Start the development server:</h3>
-<h4>npm start</h3>
+<p>npm start</p>
