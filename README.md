@@ -19,7 +19,7 @@
 <h2>Installation:</h1>
 <details>
 <h3>Clone the repository:</h3>
-<kbd>git clone https://github.com/<username>/my_2048.git</kbd>
+<kbd>git clone https://github.com/"username"/my_2048.git</kbd>
 <h3>Navigate to the project directory:</h3>
 <kbd>cd my_2048</kbd>
 <h3>Install the dependencies:</h3>
